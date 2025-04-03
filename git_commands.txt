@@ -18,8 +18,6 @@
   334  git status
   335  git commit -m "test commit"
   336  git status
-  337  git config --global user.email "kasar.hr3@gmail.com"
-  338  git config --global user.name "Hrushikesh Kasar"
   339  git commit -m "test commit"
   340  git status
   342  git list
@@ -27,7 +25,6 @@
   345  git restore test_file.py
   358  git status
   362  touch git_commands.txt
-  363  git remote add origin https://github.com/kasar-hr3/test_01.git
   364  git remote -v
   365  git push origin master
   366  git remote set-url origin < PERSONAL ACCESS TOKEN >/github username  / repo-name
