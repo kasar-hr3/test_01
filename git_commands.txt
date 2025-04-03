@@ -30,7 +30,7 @@
   363  git remote add origin https://github.com/kasar-hr3/test_01.git
   364  git remote -v
   365  git push origin master
-  366  git remote set-url origin https://< PERSONAL ACCESS TOKEN >/kasar-hr3/test_01.git
+  366  git remote set-url origin < PERSONAL ACCESS TOKEN >/github username  / repo-name
   367  git remote -v
   368  git push origin master 
   370  history | grep git
