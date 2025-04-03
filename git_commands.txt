@@ -34,3 +34,6 @@
   371  git status
   372  cat git_commands.txt 
   373  history | grep 'git' > git_commands.txt 
+
+Test Pull
+
