@@ -1,0 +1,39 @@
+  268  git
+  276  git init
+  277  git status
+  279  git status
+  280  git --version
+  305  git status
+  307  cd .git
+  311  git 
+  312  git show
+  313  git status
+  327  git status
+  328  git add test_file.py 
+  329  git status
+  330  git rm --cached
+  331  git rm --cached test_file.py 
+  332  git status
+  333  git add .
+  334  git status
+  335  git commit -m "test commit"
+  336  git status
+  337  git config --global user.email "kasar.hr3@gmail.com"
+  338  git config --global user.name "Hrushikesh Kasar"
+  339  git commit -m "test commit"
+  340  git status
+  342  git list
+  344  git status
+  345  git restore test_file.py
+  358  git status
+  362  touch git_commands.txt
+  363  git remote add origin https://github.com/kasar-hr3/test_01.git
+  364  git remote -v
+  365  git push origin master
+  366  git remote set-url origin https://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@github.com/kasar-hr3/test_01.git
+  367  git remote -v
+  368  git push origin master 
+  370  history | grep git
+  371  git status
+  372  cat git_commands.txt 
+  373  history | grep 'git' > git_commands.txt 
